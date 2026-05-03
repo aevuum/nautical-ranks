@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": [
+      "",
+      { "text": "ParanoyaCraft", "bold": true, "color": "#E54040" },
+      { "text": "Играй с удовольствием!", "color": "#E54040" }
+    ]
+  }
+}

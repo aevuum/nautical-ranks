@@ -1,0 +1,88 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/admin.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/developer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/event_manager.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/president_black.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/president_pink.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/villager_black.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/villager_pink.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/president_green.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/president_blue.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/villager_green.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/villager_blue.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/panaceyacraftlogo.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [""]
+    }
+  ]
+}
